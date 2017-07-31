@@ -1,0 +1,22 @@
+{
+  "name": "webhook-demo-apiai",
+  "description": "Demo Webhook Api.ai",
+  "main": "app.js",
+  "authors": [
+    "daniel"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.5",
+    "angular-ui-router": "~0.3.1"
+  }
+}
